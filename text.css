@@ -2,10 +2,10 @@
 
 /*Defione a fonde dos elementod de dentro do body*/
 body {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   background: #3214ba;
   width: 100%;
-  color: rgb(255, 0, 0);
+  color: rgb(129, 129, 129);
 }
 
 /*estiliza tosos os títulos h1*/
