@@ -2,11 +2,10 @@
 
 /*Defione a fonde dos elementod de dentro do body*/
 body {
-  font-family: fantasy;
-  font-family: 'Roboto Mono', monospace;
-  background: #14B6BA;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background: #3214ba;
   width: 100%;
-  color: black;
+  color: rgb(255, 0, 0);
 }
 
 /*estiliza tosos os títulos h1*/
