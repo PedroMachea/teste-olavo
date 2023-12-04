@@ -1,11 +1,11 @@
 /*define as cores como variáveis*/
 
 :root {
-    --cor-fundo: #000000;
-    --cor-hover: #9ad2ff;
+    --cor-fundo: #830c0c;
+    --cor-hover: #ffffff;
     /*cor de fundo das ul*/
     ;
-    --cor-primaria: #000000;
+    --cor-primaria: #ff9696;
 }
 
 /**/
